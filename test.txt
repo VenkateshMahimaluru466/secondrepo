@@ -10,3 +10,7 @@ Once im done writing, I need to push it to the remote repo. for the other teamma
 2. Jyothi will pull these changes and write some more data to the remote repo.
 
 3. I will resume my post work after Jyothi changes.
+
+Recently Installed GIT & VS code
+
+
