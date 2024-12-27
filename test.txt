@@ -13,4 +13,13 @@ Once im done writing, I need to push it to the remote repo. for the other teamma
 
 Recently Installed GIT & VS code
 
+git add
+git commit
+git push 
+git pull
+git fetch
+git merge
+git clone 
+
+
 
