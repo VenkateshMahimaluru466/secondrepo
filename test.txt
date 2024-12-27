@@ -1,3 +1,12 @@
 Hi this is a new file.
 
 New changes are added by Jyothi Prasad
+
+
+Hi, this is venkat, writing some code in this file.
+
+Once im done writing, I need to push it to the remote repo. for the other teammates to utilize my code. 
+
+2. Jyothi will pull these changes and write some more data to the remote repo.
+
+3. I will resume my post work after Jyothi changes.
