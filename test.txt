@@ -29,3 +29,5 @@ git branch
 
 
 hello everyone lakshmipathi here!
+
+i have learnt the deletion of DS STORE
