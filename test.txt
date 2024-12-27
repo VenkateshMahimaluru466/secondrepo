@@ -11,4 +11,15 @@ Once im done writing, I need to push it to the remote repo. for the other teamma
 
 3. I will resume my post work after Jyothi changes.
 
-Recently Installed GIT & VS Code
+Recently Installed GIT & VS code
+
+git add
+git commit
+git push 
+git pull
+git fetch
+git merge
+git clone 
+
+
+
