@@ -25,7 +25,21 @@ Some new changes are added now
 
 How to create, update and delete branches.
 
-git branch
+git branch  - list 
+
+git branch [branch_name] - create
+
+git branch --delete develop - delete
+
+git branch -D develop - remote delete
+
+git switch [branch_name] - switch 
+
+git checkout [branch_name]
+
+git tag - lists
+
+git tag -m "msg" "v.01"
 
 
 # This is written from my develop branch. I will push these changes along with the branch to my remote.  
