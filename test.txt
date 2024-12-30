@@ -79,3 +79,18 @@ ps - options
 
 echo 
 
+kjhnadkfkadskfalkj
+lksjdflkjaksjfasf
+kjskdjflaksdjflkjsldfjsa
+ljsljflk
+
+kljsdflkhakdfha
+lksjdflkjaksjfasfljsdlfkjlaskdjf
+
+
+
+
+
+git add . 
+
+
