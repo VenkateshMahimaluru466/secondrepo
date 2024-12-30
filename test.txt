@@ -21,6 +21,9 @@ git fetch
 git merge
 git clone 
 
+git stash
+git rebase
+
 Some new changes are added now 
 
 How to create, update and delete branches.
@@ -42,11 +45,16 @@ git tag - lists
 git tag -m "msg" "v.01" --force
 
 
+    
+
+
+
 # This is written from my develop branch. I will push these changes along with the branch to my remote.  
 08c2c4805b419b09a6d5803678dc9268ca5cb7fb - Last main cmmmit - This is where we have derived a separate branch as Develop. 
 
 
-Work on Linux commands
+
+# Work on Linux commands
 
 
 cd
