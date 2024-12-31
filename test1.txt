@@ -1,5 +1,5 @@
 it is a new file created by reshma
-Learning how to create  and delete branch :
+1.Learning how to create  and delete branch :
 git branch local
 git branch
 develop
@@ -9,3 +9,5 @@ develop
  master
 deleting the branch:
 git branch -d local
+2. how to switch the branch:
+   git switch < branch name>
