@@ -14,3 +14,8 @@ git branch -d local
 3. how to use checkout command:
    git checkout <branch name>
    we can use checkout commands  to discard unstaged changes in tracked files.
+4. how to create tagging:
+   git tag command :
+   shows the versions.
+   To create :
+    git tag <tag name>
