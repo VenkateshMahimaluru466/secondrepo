@@ -1,2 +1,9 @@
 it is a new file created by reshma
-Learning how to create branch 
+Learning how to create  and delete branch :
+git branch local
+git branch
+develop
+  list
+  local
+  main
+ master
