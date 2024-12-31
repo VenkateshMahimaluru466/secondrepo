@@ -7,3 +7,5 @@ develop
   local
   main
  master
+deleting the branch:
+git branch -d local
