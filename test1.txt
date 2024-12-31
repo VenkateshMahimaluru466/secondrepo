@@ -13,3 +13,4 @@ git branch -d local
    git switch < branch name>
 3. how to use checkout command:
    git checkout <branch name>
+   we can use checkout commands  to discard unstaged changes in tracked files.
