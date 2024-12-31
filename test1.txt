@@ -22,3 +22,4 @@ git branch -d local
 
 Practicing the scenario
 Creating a new tag
+how to use rebase command
