@@ -21,4 +21,4 @@ git branch -d local
     git tag <tag name>
 5. Pushing tags to remote to display the tags:
    git push origin <tag name>
-6. git rebase;
+6. git rebase:
