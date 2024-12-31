@@ -11,3 +11,5 @@ deleting the branch:
 git branch -d local
 2. how to switch the branch:
    git switch < branch name>
+3. how to use checkout command:
+   git checkout <branch name>
