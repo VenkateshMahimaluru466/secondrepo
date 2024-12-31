@@ -25,6 +25,7 @@ Some new changes are added now
 
 How to create, update and delete branches.
 
+<<<<<<< HEAD
 git branch  - list 
 
 git branch [branch_name] - create
@@ -67,3 +68,11 @@ ps - options
 
 echo 
 
+=======
+git branch
+
+
+hello everyone lakshmipathi here!
+
+i have learnt the deletion of DS STORE
+>>>>>>> main
