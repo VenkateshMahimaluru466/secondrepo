@@ -1,0 +1,51 @@
+it is a new file created by reshma
+1.Learning how to create  and delete branch :
+git branch local
+git branch
+develop
+  list
+  local
+  main
+ master
+deleting the branch:
+git branch -d local
+2. how to switch the branch:
+   git switch < branch name>
+3. how to use checkout command:
+   git checkout <branch name>
+   we can use checkout commands  to discard unstaged changes in tracked files.
+4. how to create tagging:
+   git tag command :
+   shows the versions.
+   To create :
+    git tag <tag name>
+5. Pushing tags to remote to display the tags:
+   git push origin <tag name>
+6. git rebase:
+ how to use rebase
+  scenarioit is a new file created by reshma
+1.Learning how to create  and delete branch :
+git branch local
+git branch
+develop
+  list
+  local
+  main
+ master
+deleting the branch:
+git branch -d local
+2. how to switch the branch:
+   git switch < branch name>
+3. how to use checkout command:
+   git checkout <branch name>
+   we can use checkout commands  to discard unstaged changes in tracked files.
+4. how to create tagging:
+   git tag command :
+   shows the versions.
+   To create :
+    git tag <tag name>
+5. Pushing tags to remote to display the tags:
+   git push origin <tag name>
+6. git rebase:
+ how to use rebase
+  scenario
