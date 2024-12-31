@@ -21,3 +21,4 @@ git branch -d local
     git tag <tag name>
 
 Practicing the scenario
+Creating a new tag
