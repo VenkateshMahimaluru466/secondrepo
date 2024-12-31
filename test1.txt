@@ -23,3 +23,4 @@ git branch -d local
    git push origin <tag name>
 6. git rebase:
  how to use rebase
+  scenario
