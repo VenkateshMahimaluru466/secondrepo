@@ -2,3 +2,4 @@ hello world
 
 happy new year to everyone!
 
+deleted ds store 
