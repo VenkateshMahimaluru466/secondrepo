@@ -1,7 +1,10 @@
 hello world!!!
 Learning how to use git .
 Scenario: 
-After cloning a repository, you notice that the latest changes from the remote branch are missing. How would you ensure your local repository is up-to-date?
+After cloning a repository, you notice that the latest changes from the remote branch are missing. 
+How would you ensure your local repository is up-to-date?
 Answer:
-By using git fetch . it come back to local repo and checks add and commit the message. after that we should use git merge  to pull the request to working directory.
+By using git fetch . it come back to local repo and checks add and commit the message. 
+after that we should use git merge  to pull the request to working directory.
  git pull = git fetch + git merge.
+ dfksjnf
