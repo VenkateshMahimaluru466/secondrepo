@@ -19,6 +19,7 @@ git branch -d local
    shows the versions.
    To create :
     git tag <tag name>
+<<<<<<< HEAD
 5. Pushing tags to remote to display the tags:
    git push origin <tag name>
 6. git rebase:
@@ -49,3 +50,12 @@ git branch -d local
 6. git rebase:
  how to use rebase
   scenario
+=======
+
+Practicing the scenario
+Creating a new tag
+Practicing pull request.
+
+scenario 
+some new changes
+>>>>>>> c1f0149021961a3b633fa827bca64aef3e653a45
