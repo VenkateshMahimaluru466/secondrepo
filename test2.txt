@@ -11,3 +11,12 @@ git pull
 git fetch
 git merge
 git branch
+<<<<<<< HEAD
+=======
+
+git fetch
+
+
+
+practising git fetch
+>>>>>>> refs/remotes/origin/main
